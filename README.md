@@ -1,0 +1,1 @@
+A service which provide Bloomberg Data through a Web Service
